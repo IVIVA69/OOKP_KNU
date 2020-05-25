@@ -1,0 +1,7 @@
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\bin\Debug\practice_mkr.exe.config
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\bin\Debug\practice_mkr.exe
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\bin\Debug\practice_mkr.pdb
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\obj\Debug\practice_mkr.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\obj\Debug\practice_mkr.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\obj\Debug\practice_mkr.exe
+C:\Users\Иван\Desktop\practice_mkr\practice_mkr\obj\Debug\practice_mkr.pdb
